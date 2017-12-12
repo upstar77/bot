@@ -200,7 +200,7 @@ class Card(RequestsManager):
 	def cardinator(self, accessToken):
 		print("Adding Card and subscribing now")
 		print(accessToken)
-		CC_NUMBER = "4941127281747846"
+		CC_NUMBER = "4941597006204548"
 		CC_NAME = "Mazen Mashally"
 		CC_EXPIRATION_YEAR = 2021
 		CC_EXPIRATION_MONTH = 9
